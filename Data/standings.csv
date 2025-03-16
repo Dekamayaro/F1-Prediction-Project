@@ -1,0 +1,133 @@
+Year,Position,Driver,Number,Nationality,Team,Points
+2019,1,Lewis Hamilton,44,GBR,Mercedes,413
+2019,2,Valtteri Bottas,77,FIN,Mercedes,326
+2019,3,Max Verstappen,33,NED,Red Bull Racing Honda,278
+2019,4,Charles Leclerc,16,MON,Ferrari,264
+2019,5,Sebastian Vettel,5,GER,Ferrari,240
+2019,6,Carlos Sainz,55,ESP,McLaren Renault,96
+2019,7,Pierre Gasly,10,FRA,Red Bull Racing Honda/Toro Rosso Honda,95
+2019,8,Alexander Albon,23,THA,Toro Rosso Honda/Red Bull Racing Honda,92
+2019,9,Daniel Ricciardo,3,AUS,Renault,54
+2019,10,Sergio Perez,11,MEX,Racing Point BWT Mercedes,52
+2019,11,Lando Norris,4,GBR,McLaren Renault,49
+2019,12,Kimi Räikkönen,7,FIN,Alfa Romeo Racing Ferrari,43
+2019,13,Nico Hulkenberg,27,GER,Renault,37
+2019,14,Daniil Kvyat,26,RUS,Toro Rosso Honda,37
+2019,15,Lance Stroll,18,CAN,Racing Point BWT Mercedes,21
+2019,16,Kevin Magnussen,20,DEN,Haas Ferrari,20
+2019,17,Antonio Giovinazzi,99,ITA,Alfa Romeo Racing Ferrari,14
+2019,18,Romain Grosjean,8,FRA,Haas Ferrari,8
+2019,19,Robert Kubica,88,POL,Williams Mercedes,1
+2019,20,George Russell,63,GBR,Williams Mercedes,0
+2020,1,Lewis Hamilton,44,GBR,Mercedes,347
+2020,2,Valtteri Bottas,77,FIN,Mercedes,223
+2020,3,Max Verstappen,33,NED,Red Bull Racing Honda,214
+2020,4,Sergio Perez,11,MEX,Racing Point BWT Mercedes,125
+2020,5,Daniel Ricciardo,3,AUS,Renault,119
+2020,6,Carlos Sainz,55,ESP,McLaren Renault,105
+2020,7,Alexander Albon,23,THA,Red Bull Racing Honda,105
+2020,8,Charles Leclerc,16,MON,Ferrari,98
+2020,9,Lando Norris,4,GBR,McLaren Renault,97
+2020,10,Pierre Gasly,10,FRA,AlphaTauri Honda,75
+2020,11,Lance Stroll,18,CAN,Racing Point BWT Mercedes,75
+2020,12,Esteban Ocon,31,FRA,Renault,62
+2020,13,Sebastian Vettel,5,GER,Ferrari,33
+2020,14,Daniil Kvyat,26,RUS,AlphaTauri Honda,32
+2020,15,Nico Hulkenberg,27,GER,Racing Point BWT Mercedes,10
+2020,16,Kimi Räikkönen,7,FIN,Alfa Romeo Racing Ferrari,4
+2020,17,Antonio Giovinazzi,99,ITA,Alfa Romeo Racing Ferrari,4
+2020,18,George Russell,63,GBR,Williams Mercedes,3
+2020,19,Kevin Magnussen,20,DEN,Haas Ferrari,1
+2020,20,Nicholas Latifi,6,CAN,Williams Mercedes,0
+2020,21,Romain Grosjean,8,FRA,Haas Ferrari,0
+2020,22,Jack Aitken,89,GBR,Williams Mercedes,0
+2020,23,Pietro Fittipaldi,51,BRA,Haas Ferrari,0
+2021,1,Max Verstappen,33,NED,Red Bull Racing Honda,395.5
+2021,2,Lewis Hamilton,44,GBR,Mercedes,387.5
+2021,3,Valtteri Bottas,77,FIN,Mercedes,226
+2021,4,Sergio Perez,11,MEX,Red Bull Racing Honda,190
+2021,5,Carlos Sainz,55,ESP,Ferrari,164.5
+2021,6,Lando Norris,4,GBR,McLaren Mercedes,160
+2021,7,Charles Leclerc,16,MON,Ferrari,159
+2021,8,Daniel Ricciardo,3,AUS,McLaren Mercedes,115
+2021,9,Pierre Gasly,10,FRA,AlphaTauri Honda,110
+2021,10,Fernando Alonso,14,ESP,Alpine Renault,81
+2021,11,Esteban Ocon,31,FRA,Alpine Renault,74
+2021,12,Sebastian Vettel,5,GER,Aston Martin Mercedes,43
+2021,13,Lance Stroll,18,CAN,Aston Martin Mercedes,34
+2021,14,Yuki Tsunoda,22,JPN,AlphaTauri Honda,32
+2021,15,George Russell,63,GBR,Williams Mercedes,16
+2021,16,Kimi Räikkönen,7,FIN,Alfa Romeo Racing Ferrari,10
+2021,17,Nicholas Latifi,6,CAN,Williams Mercedes,7
+2021,18,Antonio Giovinazzi,99,ITA,Alfa Romeo Racing Ferrari,3
+2021,19,Mick Schumacher,47,GER,Haas Ferrari,0
+2021,20,Robert Kubica,88,POL,Alfa Romeo Racing Ferrari,0
+2021,21,Nikita Mazepin,9,RUS,Haas Ferrari,0
+2022,1,Max Verstappen,1,NED,Red Bull Racing RBPT,454
+2022,2,Charles Leclerc,16,MON,Ferrari,308
+2022,3,Sergio Perez,11,MEX,Red Bull Racing RBPT,305
+2022,4,George Russell,63,GBR,Mercedes,275
+2022,5,Carlos Sainz,55,ESP,Ferrari,246
+2022,6,Lewis Hamilton,44,GBR,Mercedes,240
+2022,7,Lando Norris,4,GBR,McLaren Mercedes,122
+2022,8,Esteban Ocon,31,FRA,Alpine Renault,92
+2022,9,Fernando Alonso,14,ESP,Alpine Renault,81
+2022,10,Valtteri Bottas,77,FIN,Alfa Romeo Racing Ferrari,49
+2022,11,Daniel Ricciardo,3,AUS,McLaren Mercedes,
+2022,12,Sebastian Vettel,5,GER,Aston Martin Mercedes,37
+2022,13,Kevin Magnussen,20,DEN,Haas Ferrari,25
+2022,14,Pierre Gasly,10,FRA,AlphaTauri RBPT,23
+2022,15,Lance Stroll,18,CAN,Aston Martin Mercedes,18
+2022,16,Mick Schumacher,47,GER,Haas Ferrari,12
+2022,17,Yuki Tsunoda,22,JPN,AlphaTauri RBPT,12
+2022,18,Zhou Guanyu,24,CHN,Alfa Romeo Racing Ferrari,6
+2022,19,Alexander Albon,23,THA,Williams Mercedes,4
+2022,20,Nicholas Latifi,6,CAN,Williams Mercedes,2
+2022,21,Nyck de Vries,45,NED,Williams Mercedes,2
+2022,22,Nico Hulkenberg,27,GER,Aston Martin Mercedes,0
+2023,1,Max Verstappen,1,NED,Red Bull Racing RBPT,575
+2023,2,Sergio Perez,11,MEX,Red Bull Racing RBPT,285
+2023,3,Lewis Hamilton,44,GBR,Mercedes,234
+2023,4,Fernando Alonso,14,ESP,Aston Martin Mercedes,206
+2023,5,Charles Leclerc,16,MON,Ferrari,206
+2023,6,Lando Norris,4,GBR,McLaren Mercedes,205
+2023,7,Carlos Sainz,55,ESP,Ferrari,200
+2023,8,George Russell,63,GBR,Mercedes,175
+2023,9,Oscar Piastri,81,AUS,McLaren Mercedes,97
+2023,10,Lance Stroll,18,CAN,Aston Martin Mercedes,74
+2023,11,Pierre Gasly,10,FRA,Alpine Renault,62
+2023,12,Esteban Ocon,31,FRA,Alpine Renault,58
+2023,13,Alexander Albon,23,THA,Williams Mercedes,27
+2023,14,Yuki Tsunoda,22,JPN,AlphaTauri RBPT,17
+2023,15,Valtteri Bottas,77,FIN,Alfa Romeo Racing Ferrari,10
+2023,16,Nico Hulkenberg,27,GER,Haas Ferrari,9
+2023,17,Daniel Ricciardo,3,AUS,AlphaTauri RBPT,6
+2023,18,Zhou Guanyu,24,CHN,Alfa Romeo Racing Ferrari,6
+2023,19,Kevin Magnussen,20,DEN,Haas Ferrari,3
+2023,20,Liam Lawson,40,NZL,AlphaTauri RBPT,2
+2023,21,Logan Sargeant,2,USA,Williams Mercedes,1
+2023,22,Nyck de Vries,21,NED,AlphaTauri RBPT,0
+2024,1,Max Verstappen,1,NED,Red Bull Racing Honda RBPT,437
+2024,2,Lando Norris,4,GBR,McLaren Mercedes,374
+2024,3,Charles Leclerc,16,MON,Ferrari,356
+2024,4,Oscar Piastri,81,AUS,McLaren Mercedes,292
+2024,5,Carlos Sainz,55,ESP,Ferrari,290
+2024,6,George Russell,63,GBR,Mercedes,245
+2024,7,Lewis Hamilton,44,GBR,Mercedes,223
+2024,8,Sergio Perez,11,MEX,Red Bull Racing Honda RBPT,152
+2024,9,Fernando Alonso,14,ESP,Aston Martin Aramco Mercedes,70
+2024,10,Pierre Gasly,10,FRA,Alpine Renault,42
+2024,11,Nico Hulkenberg,27,GER,Haas Ferrari,41
+2024,12,Yuki Tsunoda,22,JPN,RB Honda RBPT,30
+2024,13,Lance Stroll,18,CAN,Aston Martin Aramco Mercedes,24
+2024,14,Esteban Ocon,31,FRA,Alpine Renault,23
+2024,15,Kevin Magnussen,20,DEN,Haas Ferrari,16
+2024,16,Alexander Albon,23,THA,Williams Mercedes,12
+2024,17,Daniel Ricciardo,3,AUS,RB Honda RBPT,12
+2024,18,Oliver Bearman,61,GBR,Haas Ferrari,7
+2024,19,Franco Colapinto,99,ARG,Williams Mercedes,5
+2024,20,Zhou Guanyu,24,CHN,Alfa Romeo Ferrari,4
+2024,21,Liam Lawson,40,NZL,RB Honda RBPT,4
+2024,22,Valtteri Bottas,77,FIN,Alfa Romeo Ferrari,0
+2024,23,Logan Sargeant,2,USA,Williams Mercedes,0
+2024,24,Jack Doohan,50,AUS,Alpine Renault,0
